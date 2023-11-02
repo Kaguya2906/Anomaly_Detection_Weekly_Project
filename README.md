@@ -8,11 +8,11 @@ This repository showcases a collection of projects I undertook during my course 
 
 ## Environment Setup
 Below are the open-source framework that I used in the projects and their documentation:
-- [Scikit-Learn](https://scikit-learn.org/stable/install.html) 
-- [Tensorflow](https://www.tensorflow.org/install)
-- [PyOD](https://pyod.readthedocs.io/en/latest/install.html) 
-- [H2O.ai](https://h2o.ai/)
-- [SHAP](https://shap.readthedocs.io/en/latest/)
+- [Scikit-Learn](https://scikit-learn.org/stable/install.html): A free software machine learning library for the Python programming language.
+- [Tensorflow](https://www.tensorflow.org/install): An end-to-end platform for machine learning.
+- [Python Outlier Detection(PyOD)](https://pyod.readthedocs.io/en/latest/install.html): The most comprehensive Python library for detecting outlying objects in multivariate data.
+- [H2O.ai](https://h2o.ai/): An open source, in-memory, distributed, fast, and scalable machine learning and predictive analytics platform. 
+- [SHAP](https://shap.readthedocs.io/en/latest/): A theoretic approach to explain the output of any machine learning model.
 
 ## Repository Breakdown
 
@@ -27,8 +27,8 @@ The efficacy of these features was later assessed during the modeling phase.
 
 ### Notebooks 05-11
 Application of **11** distinct anomaly detection models on the refined datasets, encompassing both unsupervised and supervised machine learning techniques.
-- **Unsupervised** Models: [HBOS](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/05.HBOS%2CECODs.ipynb), [ECOD](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/05.HBOS%2CECODs.ipynb), [IsolationForest](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/07.AutoEncoder%2CIForest.ipynb), [KNN](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/06.PCA%2CKNN.ipynb), [PCA](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/06.PCA%2CKNN.ipynb), and [AutoEncoder](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/07.AutoEncoder%2CIForest.ipynb).
-- **Supervised** Models: Sampling Methods ([Undersampling](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/08.UnderSampling.ipynb), [Oversampling](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/09.OverSampling.ipynb)), [XGB](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/10.GBM%2CXGB%2CDeepLearning.ipynb) ([GBM](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/10.GBM%2CXGB%2CDeepLearning.ipynb), [GLM](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/11.GLM%2CAutoML.ipynb)), [Deep Learning](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/10.GBM%2CXGB%2CDeepLearning.ipynb), and [AutoML](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/11.GLM%2CAutoML.ipynb) (Ensembled).
+- **Unsupervised** Models(PyOD): [HBOS](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/05.HBOS%2CECODs.ipynb), [ECOD](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/05.HBOS%2CECODs.ipynb), [IsolationForest](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/07.AutoEncoder%2CIForest.ipynb), [KNN](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/06.PCA%2CKNN.ipynb), [PCA](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/06.PCA%2CKNN.ipynb), and [AutoEncoder](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/07.AutoEncoder%2CIForest.ipynb).
+- **Supervised** Models(H2O.ai): Sampling Methods ([Undersampling](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/08.UnderSampling.ipynb), [Oversampling](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/09.OverSampling.ipynb)), [XGB](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/10.GBM%2CXGB%2CDeepLearning.ipynb) ([GBM](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/10.GBM%2CXGB%2CDeepLearning.ipynb), [GLM](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/11.GLM%2CAutoML.ipynb)), [Deep Learning](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/10.GBM%2CXGB%2CDeepLearning.ipynb), and [AutoML](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/11.GLM%2CAutoML.ipynb) (Ensembled).
 
 ### Notebook 12
 Evaluation of Feature Contributions with [SHAP Values](https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/blob/main/12.Random%20Forest%2CSHAP%20Values.ipynb), delving deeper into model interpretability, a critical aspect often overlooked in the complex landscape of machine learning.
