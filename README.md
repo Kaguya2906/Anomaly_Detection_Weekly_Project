@@ -1,4 +1,8 @@
 # Anomaly Detection Weekly Project
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lanru-fu-a55376162/)[![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/rurus_memo/)
+
+
+<img width="641" alt="Screenshot 2023-11-02 at 1 01 23 PM" src="https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/assets/38816901/55979cb9-4bbe-4377-bb11-8ce8516ee218">
 
 ## Introduction
 Anomaly detection is the identification of rare events that significantly deviate from the norm. Such events, often termed as Outliers, Noises, Novelties, or Exceptions, don't conform to expected behavior. These anomalies can have adverse effects on business operations, potentially causing significant losses. Therefore, timely and accurate detection is crucial to mitigate future risks, making anomaly detection an essential facet of data science. Many data professionals engage in detecting and preventing fraud, and other forms of risk mitigation.
@@ -41,3 +45,6 @@ Evaluation of Feature Contributions with [SHAP Values](https://github.com/Kaguya
 - [H2O Deep Learning](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/data-science/deep-learning.html)
 - [H2O AutoML](https://docs.h2o.ai/h2o/latest-stable/h2o-docs/automl.html)
 - [SHAP](https://shap.readthedocs.io/en/latest/)
+
+## Find Me All Around the Web
+[![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/braydon-coyer/)
