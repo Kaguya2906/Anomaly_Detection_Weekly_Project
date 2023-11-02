@@ -1,6 +1,8 @@
 # Anomaly Detection Weekly Project
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/lanru-fu-a55376162/)
+[![Gmail Badge](https://img.shields.io/badge/Gmail-Profile-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](<gmail/lanru.2018@gmail.com>)
 [![Instagram Badge](https://img.shields.io/badge/Instagram-Profile-informational?style=flat&logo=instagram&logoColor=white&color=1CA2F1)](https://www.instagram.com/rurus_memo/)
+[![Discord Badge](https://img.shields.io/badge/Discord-Profile-informational?style=flat&logo=discord&logoColor=white&color=1CA2F1)](kaguya2906)
 
 
 <img width="641" alt="Screenshot 2023-11-02 at 1 01 23 PM" src="https://github.com/Kaguya2906/Anomaly_Detection_Weekly_Project/assets/38816901/55979cb9-4bbe-4377-bb11-8ce8516ee218">
